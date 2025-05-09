@@ -162,6 +162,6 @@
             <a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
     </div>
-    
+
 </body>
 </html>
